@@ -1,22 +1,30 @@
 {
-"faction": "r/place Bronies",
-"contact": "https://discord.gg/bronyplace",
-"templates": [
-{
-"name": "Rainbow Dash",
-"sources": [
-"https://i.imgur.com/r2I1MJH.png"
-],
-"x": 293,
-"y": 98
-},
-{
-"name": "Twilight",
-"sources": [
-"https://i.imgur.com/haRWlfU.png"
-],
-"x": 338,
-"y": 488
-}
-]
+  "faction": "r/place Bronies",
+  "contact": "https://discord.gg/bronyplace",
+  "templates": [
+    {
+      "name": "Rainbow Dash",
+      "sources": [
+      "https://raw.githubusercontent.com/TheWaffleLord37/Stream-Canvas-Templates/main/vedal987/RD.png"
+      ],
+      "x": 293,
+      "y": 98
+    },
+    {
+      "name": "Twilight",
+      "sources": [
+      "https://raw.githubusercontent.com/TheWaffleLord37/Stream-Canvas-Templates/main/vedal987/Twi.png"
+      ],
+      "x": 338,
+      "y": 488
+    },
+    {
+      "name": "Derpy",
+      "sources": [
+      "https://raw.githubusercontent.com/TheWaffleLord37/Stream-Canvas-Templates/main/vedal987/Derpy.png"
+      ],
+      "x": 198,
+      "y": 164
+    }
+  ]
 }

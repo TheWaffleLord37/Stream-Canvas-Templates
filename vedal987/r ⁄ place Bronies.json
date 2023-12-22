@@ -25,6 +25,14 @@
       ],
       "x": 198,
       "y": 164
+    },
+    {
+      "name": "Pinkie",
+      "sources": [
+      "https://raw.githubusercontent.com/TheWaffleLord37/Stream-Canvas-Templates/main/vedal987/Pinkie.png"
+      ],
+      "x": 0,
+      "y": 393
     }
   ]
 }

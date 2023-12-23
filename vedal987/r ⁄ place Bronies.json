@@ -7,8 +7,8 @@
       "sources": [
       "https://raw.githubusercontent.com/TheWaffleLord37/Stream-Canvas-Templates/main/vedal987/RD.png"
       ],
-      "x": 293,
-      "y": 98
+      "x": 294,
+      "y": 99
     },
     {
       "name": "Twilight",
@@ -23,7 +23,7 @@
       "sources": [
       "https://raw.githubusercontent.com/TheWaffleLord37/Stream-Canvas-Templates/main/vedal987/Derpy.png"
       ],
-      "x": 198,
+      "x": 199,
       "y": 164
     },
     {
@@ -33,6 +33,14 @@
       ],
       "x": 0,
       "y": 393
+    },
+    {
+      "name": "Sunny",
+      "sources": [
+      "https://raw.githubusercontent.com/TheWaffleLord37/Stream-Canvas-Templates/main/vedal987/Sunny.png"
+      ],
+      "x": 35,
+      "y": 250
     }
   ]
 }

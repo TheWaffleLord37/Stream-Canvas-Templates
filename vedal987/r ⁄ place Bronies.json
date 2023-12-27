@@ -7,23 +7,23 @@
       "sources": [
         "https://raw.githubusercontent.com/TheWaffleLord37/Stream-Canvas-Templates/main/vedal987/RD.png"
       ],
-      "x": 293,
-      "y": 98
+      "x": 294,
+      "y": 99
     },
     {
       "name": "Twilight",
       "sources": [
         "https://raw.githubusercontent.com/TheWaffleLord37/Stream-Canvas-Templates/main/vedal987/Twi.png"
       ],
-      "x": 338,
-      "y": 488
+      "x": 339,
+      "y": 489
     },
     {
       "name": "Derpy",
       "sources": [
         "https://raw.githubusercontent.com/TheWaffleLord37/Stream-Canvas-Templates/main/vedal987/Derpy.png"
       ],
-      "x": 199,
+      "x": 200,
       "y": 164
     },
     {
@@ -32,15 +32,23 @@
         "https://raw.githubusercontent.com/TheWaffleLord37/Stream-Canvas-Templates/main/vedal987/Pinkie.png"
       ],
       "x": 0,
-      "y": 393
+      "y": 394
     },
     {
       "name": "Sunny",
       "sources": [
         "https://raw.githubusercontent.com/TheWaffleLord37/Stream-Canvas-Templates/main/vedal987/Sunny.png"
       ],
-      "x": 35,
-      "y": 250
+      "x": 36,
+      "y": 251
+    },
+    {
+      "name": "ponk",
+      "sources": [
+        "https://raw.githubusercontent.com/TheWaffleLord37/Stream-Canvas-Templates/main/vedal987/ponk.png"
+      ],
+      "x": 221,
+      "y": 158
     }
   ],
   "whitelist": [],

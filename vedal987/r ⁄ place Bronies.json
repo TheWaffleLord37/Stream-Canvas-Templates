@@ -49,6 +49,14 @@
       ],
       "x": 318,
       "y": 113
+    },
+        {
+      "name": "lilou",
+      "sources": [
+        "https://raw.githubusercontent.com/TheWaffleLord37/Stream-Canvas-Templates/main/vedal987/lilou.png"
+      ],
+      "x": 434,
+      "y": 306
     }
   ],
   "whitelist": [],
